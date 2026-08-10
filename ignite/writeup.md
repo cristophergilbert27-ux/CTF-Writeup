@@ -1,4 +1,4 @@
-# Chocolate Factory Writeup
+# Ignite Writeup
 
 **Machine Name:** Ignite  
 **Platform:** TryHackMe  
