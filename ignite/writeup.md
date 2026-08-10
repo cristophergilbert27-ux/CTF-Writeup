@@ -73,7 +73,7 @@ root instead of the /fuel subpath the original PoC used, and ran it.
 
 ![url-change](screenshot/url-change.jpg)
 
-![execute](Screenshot/execute.jpg)
+![execute](screenshot/execute.jpg)
 
 > **Security Issue #3:** Outdated CMS With an Unpatched Public Exploit. CVE-2018-16763 hadbeen public for years by the time this install was still running the vulnerable version. A documented CVE, a working public proof of concept, and no patch left in place is about as low-effort as remote code execution gets for an attacker.
 
