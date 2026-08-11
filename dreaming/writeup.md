@@ -1,7 +1,7 @@
 # Dreaming Writeup
 
-**Machine Name:** Dreaming
-**Platform:** TryHackMe
+**Machine Name:** Dreaming  
+**Platform:** TryHackMe  
 **Difficulty:** Easy
 
 ---
