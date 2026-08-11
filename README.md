@@ -8,6 +8,7 @@ Cybersecurity write-ups and CTF room walkthroughs, documented as part of my jour
 | Room | Platform | Difficulty |
 |---|---|---|
 | [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
+| [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
