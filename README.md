@@ -3,13 +3,12 @@
 ## Write-ups
 
 <!-- WRITEUPS:START -->
-
-| Room                                              | Platform  | Difficulty |
-| ------------------------------------------------- | --------- | ---------- |
-| [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy       |
-| [Dreaming](dreaming/writeup.md)                   | TryHackMe | Easy       |
-| [Ignite](ignite/writeup.md)                       | TryHackMe | Easy       |
-
+| Room | Platform | Difficulty |
+|---|---|---|
+| [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
+| [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
+| [Ignite](ignite/writeup.md) | TryHackMe | Easy |
+| [Jack-of-All-Trades](jack-of-all-trades/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
 ## About
