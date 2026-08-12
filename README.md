@@ -9,6 +9,7 @@
 | [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
 | [Jack-of-All-Trades](jack-of-all-trades/writeup.md) | TryHackMe | Easy |
+| [Library](library/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
 ## About
