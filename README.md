@@ -10,6 +10,7 @@
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
 | [Jack-of-All-Trades](jack-of-all-trades/writeup.md) | TryHackMe | Easy |
 | [Library](library/writeup.md) | TryHackMe | Easy |
+| [Neighbour](neighbour/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
 ## About
