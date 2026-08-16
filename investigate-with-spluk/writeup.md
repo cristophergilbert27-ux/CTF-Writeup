@@ -1,4 +1,4 @@
-# Investigating with Splunk Write-Up
+# Investigating with Splunk Writeup
 
 **Machine Name:** Investigating with Splunk  
 **Platform:** TryHackMe  
