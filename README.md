@@ -13,6 +13,7 @@
 | [Library](library/writeup.md) | TryHackMe | Easy |
 | [Light](light/writeup.md) | TryHackMe | Easy |
 | [Neighbour](neighbour/writeup.md) | TryHackMe | Easy |
+| [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
 | [U.A. High School](ua-high-school/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
