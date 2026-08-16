@@ -1,7 +1,7 @@
-# Investigating with Splunk — TryHackMe Write-Up
+# Investigating with Splunk Write-Up
 
-**Machine Name:** Investigating with Splunk
-**Platform:** TryHackMe
+**Machine Name:** Investigating with Splunk  
+**Platform:** TryHackMe  
 **Difficulty:** Medium
 
 ---
