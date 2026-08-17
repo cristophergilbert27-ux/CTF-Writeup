@@ -5,6 +5,7 @@
 <!-- WRITEUPS:START -->
 | Room | Platform | Difficulty |
 |---|---|---|
+| [Boogeyman 1](boogeyman1/writeup.md) | TryHackMe | Medium |
 | [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
 | [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
