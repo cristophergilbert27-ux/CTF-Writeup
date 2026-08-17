@@ -1,7 +1,7 @@
 # Boogeyman 1 Writeup
 
-**Machine Name:** Boogeyman 1
-**Platform:** TryHackMe
+**Machine Name:** Boogeyman 1  
+**Platform:** TryHackMe  
 **Difficulty:** Medium
 
 ---
