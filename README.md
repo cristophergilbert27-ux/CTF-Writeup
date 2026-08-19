@@ -17,6 +17,7 @@
 | [Res](res/writeup.md) | TryHackMe | Easy |
 | [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
 | [U.A. High School](ua-high-school/writeup.md) | TryHackMe | Easy |
+| [Whiterose](whiterose/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
 ## About
