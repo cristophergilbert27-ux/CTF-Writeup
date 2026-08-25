@@ -1,7 +1,7 @@
 # Whiterose Writeup
 
-**Machine Name:** Whiterose
-**Platform:** TryHackMe
+**Machine Name:** Whiterose  
+**Platform:** TryHackMe  
 **Difficulty:** Easy
 
 ---
