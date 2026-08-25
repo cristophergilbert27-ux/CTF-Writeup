@@ -8,6 +8,7 @@
 | [Boogeyman 1](boogeyman1/writeup.md) | TryHackMe | Medium |
 | [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
 | [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
+| [Easy Peasy](easy-peasy/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
 | [Investigating with Splunk](investigate-with-spluk/writeup.md) | TryHackMe | Medium |
 | [Jack-of-All-Trades](jack-of-all-trades/writeup.md) | TryHackMe | Easy |
