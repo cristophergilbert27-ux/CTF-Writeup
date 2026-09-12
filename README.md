@@ -6,6 +6,7 @@
 | Room | Platform | Difficulty |
 |---|---|---|
 | [Boogeyman 1](boogeyman1/writeup.md) | TryHackMe | Medium |
+| [Cheese CTF](chesee-ctf/writeup.md) | TryHackMe | Easy |
 | [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
 | [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
 | [Easy Peasy](easy-peasy/writeup.md) | TryHackMe | Easy |
