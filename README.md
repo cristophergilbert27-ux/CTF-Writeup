@@ -18,6 +18,7 @@
 | [Library](library/writeup.md) | TryHackMe | Easy |
 | [Light](light/writeup.md) | TryHackMe | Easy |
 | [Lookup](lookup/writeup.md) | TryHackMe | Easy |
+| [Mustacchio](mustacchio/writeup.md) | TryHackMe | Easy |
 | [Neighbour](neighbour/writeup.md) | TryHackMe | Easy |
 | [Res](res/writeup.md) | TryHackMe | Easy |
 | [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
