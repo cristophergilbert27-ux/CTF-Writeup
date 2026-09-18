@@ -1,4 +1,4 @@
-# ToolsRUs Writeup
+# ToolsRus Writeup
 
 **Machine Name:** ToolsRus  
 **Platform:** TryHackMe  
