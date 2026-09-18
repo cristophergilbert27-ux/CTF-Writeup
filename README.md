@@ -24,6 +24,7 @@
 | [Res](res/writeup.md) | TryHackMe | Easy |
 | [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
 | [Team](team/writeup.md) | TryHackMe | Easy |
+| [ToolsRus](toolsrus/writeup.md) | TryHackMe | Easy |
 | [U.A. High School](ua-high-school/writeup.md) | TryHackMe | Easy |
 | [Volt Typhoon](volt-typhon/writeup.md) | TryHackMe | Medium |
 | [Whiterose](whiterose/writeup.md) | TryHackMe | Easy |
