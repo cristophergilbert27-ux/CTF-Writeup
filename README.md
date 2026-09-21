@@ -28,6 +28,7 @@
 | [U.A. High School](ua-high-school/writeup.md) | TryHackMe | Easy |
 | [Volt Typhoon](volt-typhon/writeup.md) | TryHackMe | Medium |
 | [Whiterose](whiterose/writeup.md) | TryHackMe | Easy |
+| [Year of the Rabbit](year-of-the-rabbit/writeup.md) | TryHackMe | Easy |
 <!-- WRITEUPS:END -->
 
 ## About

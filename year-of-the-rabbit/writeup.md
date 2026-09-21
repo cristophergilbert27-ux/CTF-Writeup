@@ -1,7 +1,7 @@
 # Year of the Rabbit Writeup
 
-**Machine Name:** Year of the Rabbit
-**Platform:** TryHackMe
+**Machine Name:** Year of the Rabbit  
+**Platform:** TryHackMe  
 **Difficulty:** Easy
 
 ---
