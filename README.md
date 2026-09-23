@@ -6,6 +6,7 @@
 | Room | Platform | Difficulty |
 |---|---|---|
 | [AVenger](avenger/writeup.md) | TryHackMe | Medium |
+| [Biblioteca](biblioteca/writeup.md) | TryHackMe | Medium |
 | [Blog](blog/writeup.md) | TryHackMe | Medium |
 | [Boogeyman 1](boogeyman1/writeup.md) | TryHackMe | Medium |
 | [Boogeyman 2](boogeyman2/writeup.md) | TryHackMe | Medium |
