@@ -28,6 +28,7 @@
 | [Mustacchio](mustacchio/writeup.md) | TryHackMe | Easy |
 | [Neighbour](neighbour/writeup.md) | TryHackMe | Easy |
 | [Publisher](publisher/writeup.md) | TryHackMe | Easy |
+| [Rabbit Store](rabbit-store/writeup.md) | TryHackMe | Medium |
 | [Res](res/writeup.md) | TryHackMe | Easy |
 | [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
 | [Team](team/writeup.md) | TryHackMe | Easy |
