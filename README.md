@@ -17,6 +17,7 @@
 | [Chocolate Factory](chocolate-factory/writeup.md) | TryHackMe | Easy |
 | [Dreaming](dreaming/writeup.md) | TryHackMe | Easy |
 | [Easy Peasy](easy-peasy/writeup.md) | TryHackMe | Easy |
+| [GoldenEye](golden-eye/writeup.md) | TryHackMe | Medium |
 | [IDE](ide/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
 | [Investigating with Splunk](investigate-with-spluk/writeup.md) | TryHackMe | Medium |
