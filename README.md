@@ -20,6 +20,7 @@
 | [GoldenEye](golden-eye/writeup.md) | TryHackMe | Medium |
 | [IDE](ide/writeup.md) | TryHackMe | Easy |
 | [Ignite](ignite/writeup.md) | TryHackMe | Easy |
+| [Include](include/writeup.md) | TryHackMe | Medium |
 | [Investigating with Splunk](investigate-with-spluk/writeup.md) | TryHackMe | Medium |
 | [Invite Only](invite-only/writeup.md) | TryHackMe | Easy |
 | [Jack-of-All-Trades](jack-of-all-trades/writeup.md) | TryHackMe | Easy |
