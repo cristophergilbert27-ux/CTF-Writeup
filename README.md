@@ -29,6 +29,7 @@
 | [Lookup](lookup/writeup.md) | TryHackMe | Easy |
 | [Mustacchio](mustacchio/writeup.md) | TryHackMe | Easy |
 | [Neighbour](neighbour/writeup.md) | TryHackMe | Easy |
+| [New Hire, Old Artifacts](newhire-old-artifact/writeup.md) | TryHackMe | Medium |
 | [Publisher](publisher/writeup.md) | TryHackMe | Easy |
 | [Rabbit Store](rabbit-store/writeup.md) | TryHackMe | Medium |
 | [Res](res/writeup.md) | TryHackMe | Easy |
