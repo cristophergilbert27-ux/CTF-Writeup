@@ -33,6 +33,7 @@
 | [Rabbit Store](rabbit-store/writeup.md) | TryHackMe | Medium |
 | [Res](res/writeup.md) | TryHackMe | Easy |
 | [Shadow Trace](shadow-trace/writeup.md) | TryHackMe | Easy |
+| [Smol](smol/writeup.md) | TryHackMe | Medium |
 | [Team](team/writeup.md) | TryHackMe | Easy |
 | [ToolsRus](toolsrus/writeup.md) | TryHackMe | Easy |
 | [U.A. High School](ua-high-school/writeup.md) | TryHackMe | Easy |
